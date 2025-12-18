@@ -1,0 +1,259 @@
+# Main Transport Data - December 16-23, 2025
+# Format: TYPE,ID,DEPARTURE,ARRIVAL,DATE,DEPT_TIME,ARR_TIME,STANDARD_PRICE,PREMIUM_PRICE,EXTRA_INFO
+
+========== DECEMBER 16, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE101,Berlin,Munich,2025-12-16,06:00,10:15,89.90,129.90,ICE
+TRAIN,ICE103,Berlin,Munich,2025-12-16,08:30,12:45,89.90,129.90,ICE
+FLIGHT,LH1234,Berlin,Munich,2025-12-16,09:15,10:30,119.00,249.00,Lufthansa
+TRAIN,ICE105,Berlin,Munich,2025-12-16,14:00,18:15,89.90,129.90,ICE
+BUS,FLX501,Berlin,Munich,2025-12-16,22:00,07:30,35.00,45.00,FlixBus
+
+# Munich - Berlin
+TRAIN,ICE201,Munich,Berlin,2025-12-16,07:00,11:15,89.90,129.90,ICE
+TRAIN,ICE203,Munich,Berlin,2025-12-16,11:30,15:45,89.90,129.90,ICE
+FLIGHT,LH2341,Munich,Berlin,2025-12-16,13:45,15:00,119.00,249.00,Lufthansa
+BUS,FLX601,Munich,Berlin,2025-12-16,21:00,06:30,35.00,45.00,FlixBus
+
+# Hamburg - Frankfurt
+TRAIN,ICE301,Hamburg,Frankfurt,2025-12-16,06:15,09:45,69.90,99.90,ICE
+TRAIN,ICE303,Hamburg,Frankfurt,2025-12-16,10:00,13:30,69.90,99.90,ICE
+FLIGHT,LH3456,Hamburg,Frankfurt,2025-12-16,12:20,13:30,99.00,199.00,Lufthansa
+BUS,FLX701,Hamburg,Frankfurt,2025-12-16,23:00,06:00,29.90,39.90,FlixBus
+
+# Frankfurt - Hamburg
+TRAIN,ICE401,Frankfurt,Hamburg,2025-12-16,08:00,11:30,69.90,99.90,ICE
+TRAIN,ICE403,Frankfurt,Hamburg,2025-12-16,14:15,17:45,69.90,99.90,ICE
+FLIGHT,LH4567,Frankfurt,Hamburg,2025-12-16,16:40,17:50,99.00,199.00,Lufthansa
+
+# Cologne - Stuttgart
+TRAIN,IC501,Cologne,Stuttgart,2025-12-16,07:30,10:15,59.90,89.90,IC
+TRAIN,IC503,Cologne,Stuttgart,2025-12-16,13:00,15:45,59.90,89.90,IC
+BUS,FLX901,Cologne,Stuttgart,2025-12-16,22:30,05:00,24.90,34.90,FlixBus
+
+# Stuttgart - Cologne
+TRAIN,IC601,Stuttgart,Cologne,2025-12-16,09:00,11:45,59.90,89.90,IC
+TRAIN,IC603,Stuttgart,Cologne,2025-12-16,15:30,18:15,59.90,89.90,IC
+
+# Berlin - Hamburg
+TRAIN,ICE801,Berlin,Hamburg,2025-12-16,06:45,08:30,49.90,69.90,ICE
+TRAIN,ICE803,Berlin,Hamburg,2025-12-16,12:15,14:00,49.90,69.90,ICE
+BUS,FLX1101,Berlin,Hamburg,2025-12-16,23:30,03:00,19.90,29.90,FlixBus
+
+# Hamburg - Berlin
+TRAIN,ICE901,Hamburg,Berlin,2025-12-16,09:00,10:45,49.90,69.90,ICE
+TRAIN,ICE903,Hamburg,Berlin,2025-12-16,15:30,17:15,49.90,69.90,ICE
+
+# Frankfurt - Düsseldorf
+TRAIN,IC701,Frankfurt,Düsseldorf,2025-12-16,08:15,10:00,44.90,64.90,IC
+TRAIN,IC703,Frankfurt,Düsseldorf,2025-12-16,14:45,16:30,44.90,64.90,IC
+BUS,FLX1301,Frankfurt,Düsseldorf,2025-12-16,23:00,02:30,17.90,27.90,FlixBus
+
+# Düsseldorf - Frankfurt
+TRAIN,IC801,Düsseldorf,Frankfurt,2025-12-16,10:30,12:15,44.90,64.90,IC
+TRAIN,IC803,Düsseldorf,Frankfurt,2025-12-16,17:00,18:45,44.90,64.90,IC
+
+# Leipzig - Berlin
+TRAIN,RE101,Leipzig,Berlin,2025-12-16,06:30,07:45,29.90,44.90,RE
+TRAIN,RE103,Leipzig,Berlin,2025-12-16,12:00,13:15,29.90,44.90,RE
+BUS,FLX1501,Leipzig,Berlin,2025-12-16,23:00,01:30,14.90,19.90,FlixBus
+
+# Berlin - Leipzig
+TRAIN,RE201,Berlin,Leipzig,2025-12-16,08:00,09:15,29.90,44.90,RE
+TRAIN,RE203,Berlin,Leipzig,2025-12-16,14:30,15:45,29.90,44.90,RE
+
+# Dortmund - Essen
+TRAIN,RE301,Dortmund,Essen,2025-12-16,07:00,07:25,9.90,14.90,RE
+TRAIN,RE303,Dortmund,Essen,2025-12-16,13:00,13:25,9.90,14.90,RE
+BUS,BUS101,Dortmund,Essen,2025-12-16,18:00,18:30,5.90,8.90,BlaBlaBus
+
+# Essen - Dortmund
+TRAIN,RE401,Essen,Dortmund,2025-12-16,08:00,08:25,9.90,14.90,RE
+TRAIN,RE403,Essen,Dortmund,2025-12-16,15:00,15:25,9.90,14.90,RE
+
+========== DECEMBER 17, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE102,Berlin,Munich,2025-12-17,06:00,10:15,89.90,129.90,ICE
+TRAIN,ICE104,Berlin,Munich,2025-12-17,08:30,12:45,89.90,129.90,ICE
+FLIGHT,LH1235,Berlin,Munich,2025-12-17,11:20,12:35,119.00,249.00,Lufthansa
+BUS,FLX502,Berlin,Munich,2025-12-17,22:00,07:30,35.00,45.00,FlixBus
+
+# Munich - Berlin
+TRAIN,ICE202,Munich,Berlin,2025-12-17,07:00,11:15,89.90,129.90,ICE
+FLIGHT,LH2342,Munich,Berlin,2025-12-17,16:30,17:45,119.00,249.00,Lufthansa
+
+# Hamburg - Frankfurt
+TRAIN,ICE302,Hamburg,Frankfurt,2025-12-17,06:15,09:45,69.90,99.90,ICE
+FLIGHT,LH3457,Hamburg,Frankfurt,2025-12-17,15:10,16:20,99.00,199.00,Lufthansa
+
+# Frankfurt - Hamburg
+TRAIN,ICE402,Frankfurt,Hamburg,2025-12-17,08:00,11:30,69.90,99.90,ICE
+BUS,FLX801,Frankfurt,Hamburg,2025-12-17,22:00,05:00,29.90,39.90,FlixBus
+
+# Cologne - Stuttgart
+TRAIN,IC502,Cologne,Stuttgart,2025-12-17,07:30,10:15,59.90,89.90,IC
+
+# Stuttgart - Cologne
+TRAIN,IC602,Stuttgart,Cologne,2025-12-17,09:00,11:45,59.90,89.90,IC
+BUS,FLX1001,Stuttgart,Cologne,2025-12-17,21:00,03:30,24.90,34.90,FlixBus
+
+# Berlin - Hamburg
+TRAIN,ICE802,Berlin,Hamburg,2025-12-17,06:45,08:30,49.90,69.90,ICE
+
+# Hamburg - Berlin
+TRAIN,ICE902,Hamburg,Berlin,2025-12-17,09:00,10:45,49.90,69.90,ICE
+BUS,FLX1201,Hamburg,Berlin,2025-12-17,22:00,01:30,19.90,29.90,FlixBus
+
+# Frankfurt - Düsseldorf
+TRAIN,IC702,Frankfurt,Düsseldorf,2025-12-17,08:15,10:00,44.90,64.90,IC
+
+# Düsseldorf - Frankfurt
+TRAIN,IC802,Düsseldorf,Frankfurt,2025-12-17,10:30,12:15,44.90,64.90,IC
+BUS,FLX1401,Düsseldorf,Frankfurt,2025-12-17,21:30,01:00,17.90,27.90,FlixBus
+
+# Leipzig - Berlin
+TRAIN,RE102,Leipzig,Berlin,2025-12-17,06:30,07:45,29.90,44.90,RE
+
+# Berlin - Leipzig
+TRAIN,RE202,Berlin,Leipzig,2025-12-17,08:00,09:15,29.90,44.90,RE
+BUS,FLX1601,Berlin,Leipzig,2025-12-17,22:00,00:30,14.90,19.90,FlixBus
+
+# Dortmund - Essen
+TRAIN,RE302,Dortmund,Essen,2025-12-17,07:00,07:25,9.90,14.90,RE
+
+# Essen - Dortmund
+TRAIN,RE402,Essen,Dortmund,2025-12-17,08:00,08:25,9.90,14.90,RE
+BUS,BUS201,Essen,Dortmund,2025-12-17,19:00,19:30,5.90,8.90,BlaBlaBus
+
+========== DECEMBER 18, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE106,Berlin,Munich,2025-12-18,06:00,10:15,89.90,129.90,ICE
+FLIGHT,LH1236,Berlin,Munich,2025-12-18,14:10,15:25,119.00,249.00,Lufthansa
+BUS,FLX503,Berlin,Munich,2025-12-18,22:00,07:30,35.00,45.00,FlixBus
+
+# Munich - Berlin
+TRAIN,ICE204,Munich,Berlin,2025-12-18,11:30,15:45,89.90,129.90,ICE
+BUS,FLX602,Munich,Berlin,2025-12-18,21:00,06:30,35.00,45.00,FlixBus
+
+# Hamburg - Frankfurt
+TRAIN,ICE304,Hamburg,Frankfurt,2025-12-18,10:00,13:30,69.90,99.90,ICE
+BUS,FLX702,Hamburg,Frankfurt,2025-12-18,23:00,06:00,29.90,39.90,FlixBus
+
+# Cologne - Stuttgart
+TRAIN,IC504,Cologne,Stuttgart,2025-12-18,13:00,15:45,59.90,89.90,IC
+
+# Stuttgart - Cologne
+TRAIN,IC604,Stuttgart,Cologne,2025-12-18,15:30,18:15,59.90,89.90,IC
+
+# Berlin - Hamburg
+TRAIN,ICE804,Berlin,Hamburg,2025-12-18,12:15,14:00,49.90,69.90,ICE
+
+# Hamburg - Berlin
+TRAIN,ICE904,Hamburg,Berlin,2025-12-18,15:30,17:15,49.90,69.90,ICE
+
+# Frankfurt - Düsseldorf
+TRAIN,IC704,Frankfurt,Düsseldorf,2025-12-18,14:45,16:30,44.90,64.90,IC
+
+# Leipzig - Berlin
+TRAIN,RE104,Leipzig,Berlin,2025-12-18,12:00,13:15,29.90,44.90,RE
+
+# Berlin - Leipzig
+TRAIN,RE204,Berlin,Leipzig,2025-12-18,14:30,15:45,29.90,44.90,RE
+
+# Dortmund - Essen
+TRAIN,RE304,Dortmund,Essen,2025-12-18,13:00,13:25,9.90,14.90,RE
+
+========== DECEMBER 19, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE107,Berlin,Munich,2025-12-19,08:30,12:45,89.90,129.90,ICE
+FLIGHT,LH1237,Berlin,Munich,2025-12-19,16:00,17:15,119.00,249.00,Lufthansa
+
+# Hamburg - Frankfurt
+TRAIN,ICE305,Hamburg,Frankfurt,2025-12-19,06:15,09:45,69.90,99.90,ICE
+
+# Frankfurt - Hamburg
+TRAIN,ICE404,Frankfurt,Hamburg,2025-12-19,14:15,17:45,69.90,99.90,ICE
+
+# Cologne - Stuttgart
+TRAIN,IC505,Cologne,Stuttgart,2025-12-19,07:30,10:15,59.90,89.90,IC
+BUS,FLX902,Cologne,Stuttgart,2025-12-19,22:30,05:00,24.90,34.90,FlixBus
+
+# Berlin - Hamburg
+TRAIN,ICE805,Berlin,Hamburg,2025-12-19,06:45,08:30,49.90,69.90,ICE
+
+# Frankfurt - Düsseldorf
+TRAIN,IC705,Frankfurt,Düsseldorf,2025-12-19,08:15,10:00,44.90,64.90,IC
+
+# Düsseldorf - Frankfurt
+TRAIN,IC804,Düsseldorf,Frankfurt,2025-12-19,17:00,18:45,44.90,64.90,IC
+
+# Leipzig - Berlin
+TRAIN,RE105,Leipzig,Berlin,2025-12-19,06:30,07:45,29.90,44.90,RE
+
+# Essen - Dortmund
+TRAIN,RE404,Essen,Dortmund,2025-12-19,15:00,15:25,9.90,14.90,RE
+
+========== DECEMBER 20, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE108,Berlin,Munich,2025-12-20,06:00,10:15,89.90,129.90,ICE
+TRAIN,ICE109,Berlin,Munich,2025-12-20,12:00,16:15,89.90,129.90,ICE
+BUS,FLX504,Berlin,Munich,2025-12-20,22:00,07:30,35.00,45.00,FlixBus
+
+# Munich - Berlin
+TRAIN,ICE205,Munich,Berlin,2025-12-20,07:00,11:15,89.90,129.90,ICE
+FLIGHT,LH2343,Munich,Berlin,2025-12-20,13:45,15:00,119.00,249.00,Lufthansa
+
+# Hamburg - Frankfurt
+TRAIN,ICE306,Hamburg,Frankfurt,2025-12-20,10:00,13:30,69.90,99.90,ICE
+FLIGHT,LH3458,Hamburg,Frankfurt,2025-12-20,12:20,13:30,99.00,199.00,Lufthansa
+
+# Frankfurt - Hamburg
+TRAIN,ICE405,Frankfurt,Hamburg,2025-12-20,08:00,11:30,69.90,99.90,ICE
+
+# Cologne - Stuttgart
+TRAIN,IC506,Cologne,Stuttgart,2025-12-20,13:00,15:45,59.90,89.90,IC
+
+# Stuttgart - Cologne
+TRAIN,IC605,Stuttgart,Cologne,2025-12-20,09:00,11:45,59.90,89.90,IC
+
+# Berlin - Hamburg
+TRAIN,ICE806,Berlin,Hamburg,2025-12-20,12:15,14:00,49.90,69.90,ICE
+
+# Hamburg - Berlin
+TRAIN,ICE905,Hamburg,Berlin,2025-12-20,09:00,10:45,49.90,69.90,ICE
+
+# Frankfurt - Düsseldorf
+TRAIN,IC706,Frankfurt,Düsseldorf,2025-12-20,14:45,16:30,44.90,64.90,IC
+
+# Düsseldorf - Frankfurt
+TRAIN,IC805,Düsseldorf,Frankfurt,2025-12-20,10:30,12:15,44.90,64.90,IC
+
+# Leipzig - Berlin
+TRAIN,RE106,Leipzig,Berlin,2025-12-20,12:00,13:15,29.90,44.90,RE
+
+# Berlin - Leipzig
+TRAIN,RE205,Berlin,Leipzig,2025-12-20,08:00,09:15,29.90,44.90,RE
+
+# Dortmund - Essen
+TRAIN,RE305,Dortmund,Essen,2025-12-20,07:00,07:25,9.90,14.90,RE
+
+# Essen - Dortmund
+TRAIN,RE405,Essen,Dortmund,2025-12-20,08:00,08:25,9.90,14.90,RE
+
+========== DECEMBER 22, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE110,Berlin,Munich,2025-12-22,06:00,10:15,89.90,129.90,ICE
+FLIGHT,LH1238,Berlin,Munich,2025-12-22,09:15,10:30,119.00,249.00,Lufthansa
+
+========== DECEMBER 23, 2025 ==========
+# Berlin - Munich
+TRAIN,ICE111,Berlin,Munich,2025-12-23,08:30,12:45,99.90,149.90,ICE
+FLIGHT,LH1239,Berlin,Munich,2025-12-23,11:20,12:35,139.00,279.00,Lufthansa
+BUS,FLX505,Berlin,Munich,2025-12-23,22:00,07:30,39.00,49.00,FlixBus
+
+========== SUMMARY ==========
+Reorganized by date: December 16-23, 2025
+Total: 120 trips across all routes
+7 dates with full coverage (Dec 16-20 comprehensive, Dec 22-23 limited)
+Covers: Berlin-Munich, Hamburg-Frankfurt, Cologne-Stuttgart, Berlin-Hamburg, Frankfurt-Düsseldorf, Leipzig-Berlin, Dortmund-Essen (all bidirectional)
+Mix of ICE, IC, RE trains, flights (Lufthansa), and buses (FlixBus, BlaBlaBus)
